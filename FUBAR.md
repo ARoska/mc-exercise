@@ -13,4 +13,10 @@ This is what Alice and Ted did on Ted's computer when working on the firdt featu
 
 I like turtles
 
+
 Bob and I are working here.
+
+this is what ted and carol did on teds computer when working on a feature in master branch
+
+Carol is a pretty lady
+
